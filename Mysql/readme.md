@@ -1,7 +1,7 @@
 My sql
 ======
 
-[google]www.google.com
+[google](www.google.com)
 ```
 -- ex1) 주석 : (--) /**/
 -- ex2) 실행단축키(Command + Enter, Command+Shift+Enter)
