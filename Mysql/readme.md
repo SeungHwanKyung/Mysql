@@ -1,8 +1,8 @@
 My sql
 ======
 
-<img width="385" alt="스크린샷 2022-02-23 오후 2 48 17" src="https://user-images.githubusercontent.com/74452873/155267743-7a6a29bb-5061-49b1-b3e5-509467100893.png">
-
+[<img width="385" alt="스크린샷 2022-02-23 오후 2 48 17" src="https://user-images.githubusercontent.com/74452873/155267743-7a6a29bb-5061-49b1-b3e5-509467100893.png">
+](http://www.jooq.org/img/sakila.png)
 
 [google](www.google.com)
 
