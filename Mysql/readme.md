@@ -2,6 +2,8 @@ My sql
 ======
 
 [google](www.google.com)
+
+http://www.jooq.org/img/sakila.png
 ```
 -- ex1) 주석 : (--) /**/
 -- ex2) 실행단축키(Command + Enter, Command+Shift+Enter)
